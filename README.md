@@ -28,5 +28,5 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=emahmi&show_icons=true" alt="emahmi" /></p>
+  <img align="left" alt="emahmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=emahmi&show_icons=true&hide_border=true" />
  </details>
