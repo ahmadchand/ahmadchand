@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋, I'm Muhammad Ahmad Chand</h1>
 <h3 align="center">A developer and student</h3>
 
-- 🔭 I’m currently working on robofiends
+- 🔭 I’m currently working on robofriends
 
 - 🌱 I’m currently learning everything 🤣
 
