@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋, I'm Muhammad Ahmad Chand</h1>
-<h3 align="center">A Front-End Developer, Designer and fun-loving person.</h3>
+<h3 align="center">A Developer, Designer and fun-loving person.</h3>
 
 - 🔭 I’m currently working on robofriends
 
