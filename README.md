@@ -23,7 +23,7 @@
 <br />
 
 ### Languages and Tools:
-
+<p>
 <img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="26px"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="26px"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="26px"/> 
@@ -33,15 +33,18 @@
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26px"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="26px"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="26px"/> 
+  </p><br />
+  <p>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="26px"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26px"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="26px"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="26px"/>
 <img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26px"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="26px"/><br />
-<p><img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="26px" />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="26px" /></p>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="26px"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="26px" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="26px" />
+</p>
 
 <br />
 <br />
