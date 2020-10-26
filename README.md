@@ -39,8 +39,8 @@
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="26px"/>
 <img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26px"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="26px"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="26px" >
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="26px"/>&nbsp;&nbsp;
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="26px" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="26px" />
 
 <br />
