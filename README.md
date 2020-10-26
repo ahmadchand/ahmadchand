@@ -31,6 +31,7 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="26px" />
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="26px"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26px"/> 
+<img align="left" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png" alt="visualStudio" width="26px"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="26px"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="26px"/> 
   </p><br /><br />
