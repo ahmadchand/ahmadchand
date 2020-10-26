@@ -37,6 +37,7 @@
   </p><br /><br />
   <p>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="26px"/> 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/684px-.NET_Logo.svg.png" alt=".NET" width="26px"/>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26px"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="26px"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="26px"/>
