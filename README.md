@@ -12,7 +12,7 @@
 - ⚡ Fun fact I'm a coffee addict and love to do video gaming
  
 
-### Connect with me:
+### Connect with me: 
  
  
 [<img align="left" alt="emahmi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
