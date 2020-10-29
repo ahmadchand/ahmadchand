@@ -10,7 +10,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact I'm a coffee addict and love to do video gaming
-
+ 
 
 ### Connect with me:
  
