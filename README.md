@@ -61,5 +61,5 @@
 [twitter]: https://twitter.com/em_ahmii
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/em_ahmi
-[linkedin]: https://linkedin.com/in/muhammad-ahmad-chand-740923176/
+[linkedin]: https://linkedin.com/in/emahmi/
 [facebook]: https://www.facebook.com/ahmad.chand.148/
