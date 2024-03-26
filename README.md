@@ -1,7 +1,7 @@
-<h1 align="center">Hi there!👋, I'm Muhammad Ahmad Chand</h1>
+<h1 align="center">Hi there!👋, I'm Ahmad Chand</h1>
 <h3 align="center">A Developer, Designer and fun-loving person.</h3>
 
-- 🔭 I’m currently working on [CakesAndBakes](https://cakesandbakes.com/) Project
+ 
 
 - 🌱 I’m currently learning everything 🤣 
 
@@ -53,13 +53,13 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="ahmadchand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmadchand&show_icons=true&hide_border=true" />
+  <img align="left" alt="ahmadchand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theahmadchand&show_icons=true&hide_border=true" />
  </details>
  
  
-[website]: https://
-[twitter]: https://twitter.com/em_ahmii
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/em_ahmi
-[linkedin]: https://linkedin.com/in/emahmi/
+[website]: https://ahmadchand.vercel.app
+[twitter]: https://twitter.com/theahmadchand
+[youtube]: https://youtube.com/theahmadchand
+[instagram]: https://instagram.com/theahmadchand
+[linkedin]: https://linkedin.com/in/theahmadchand
 [facebook]: https://www.facebook.com/ahmad.chand.148/
